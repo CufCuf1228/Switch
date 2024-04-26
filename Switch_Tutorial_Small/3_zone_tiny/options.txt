@@ -1,0 +1,3 @@
+--stream-solver
+--verbose
+--solver highs
