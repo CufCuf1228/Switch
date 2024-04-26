@@ -1,0 +1,11 @@
+energy_sources,load_zones,period,planned_capacity_mw
+Uranium,Anhui,2038,2350.0
+Uranium,Anhui,2048,2350.0
+Uranium,Fujian,2038,14104.0
+Uranium,Fujian,2048,14104.0
+Uranium,Jiangsu,2038,10394.0
+Uranium,Jiangsu,2048,10394.0
+Uranium,Zhejiang,2038,13207.0
+Uranium,Zhejiang,2048,13207.0
+Wind,Jiangsu,2038,22000.0
+Wind,Jiangsu,2048,30000.0

@@ -1,0 +1,8 @@
+--stream-solver --verbose
+--no-save-solution  # don't save binary solution file
+--suffix dual       # needed with cplex and gurobi with Switch 2.0.7
+--solver highs --solver-options-string "solver=ipm run_crossover=off"
+# cbc is similar to highs but hard to find for Windows
+# Gurobi and CPLEX are much faster (can solve full China model)
+# --solver gurobi --solver-options-string "method=2 crossover=0"
+# --solver cplex --solver-options-string "lpmethod=4 solutiontype=2"
