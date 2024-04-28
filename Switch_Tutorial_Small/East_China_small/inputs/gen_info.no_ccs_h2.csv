@@ -1,6 +1,6 @@
 GENERATION_PROJECT,gen_dbid,gen_tech,gen_energy_source,gen_load_zone,gen_max_age,gen_is_variable,gen_is_flexible_baseload,gen_is_baseload,gen_can_provide_spinning_reserves,gen_can_provide_quickstart_reserves,gen_full_load_heat_rate,gen_variable_om,gen_connect_cost_per_mw,gen_scheduled_outage_rate,gen_forced_outage_rate,gen_capacity_limit_mw,gen_min_build_capacity,gen_is_cogen,gen_storage_efficiency,gen_min_load_fraction,gen_is_pumped_hydro,gen_storage_energy_to_power_ratio,gen_can_suspend
 Anhui-Battery_Storage-11177,new.11177,Battery_Storage,Storage,Anhui,30,False,False,False,True,True,.,0.0,3968.771448181194,0.0055,0.02,.,.,False,0.767,0.0,False,6.0,1
-Anhui-Central_PV-401,new.401,Central_PV,Solar,Anhui,30,True,False,False,True,False,.,0.0,3968.771448181194,0.0,0.02,8500.0,.,False,.,0.0,False,.,1
+Anhui-Central_PV-401,new.401,Central_PV,Solar,Anhui,30,True,False,False,True,False,.,0.0,3968.771448181194,0.0,0.02,.,.,False,.,0.0,False,.,1
 Anhui-Central_PV-402,new.402,Central_PV,Solar,Anhui,30,True,False,False,True,False,.,0.0,3968.771448181194,0.0,0.02,8500.0,.,False,.,0.0,False,.,1
 Anhui-Central_PV-403,new.403,Central_PV,Solar,Anhui,30,True,False,False,True,False,.,0.0,3968.771448181194,0.0,0.02,8500.0,.,False,.,0.0,False,.,1
 Anhui-Central_PV-404,new.404,Central_PV,Solar,Anhui,30,True,False,False,True,False,.,0.0,3968.771448181194,0.0,0.02,8500.0,.,False,.,0.0,False,.,1
